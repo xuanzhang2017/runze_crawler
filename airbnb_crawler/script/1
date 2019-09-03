@@ -1,0 +1,896 @@
+爬取第0个url
+url = https://www.airbnb.cn/rooms/10222768?s=lL8DwLxp&guests=1&adults=1
+
+爬取第1个url
+url = https://www.airbnb.cn/rooms/10921197?s=lL8DwLxp&guests=1&adults=1
+
+爬取第2个url
+url = https://www.airbnb.cn/rooms/11715562?s=lL8DwLxp&guests=1&adults=1
+
+爬取第3个url
+url = https://www.airbnb.cn/rooms/14018177?s=lL8DwLxp&guests=1&adults=1
+
+爬取第4个url
+url = https://www.airbnb.cn/rooms/14394244?s=lL8DwLxp&guests=1&adults=1
+
+爬取第5个url
+url = https://www.airbnb.cn/rooms/14409765?s=lL8DwLxp&guests=1&adults=1
+
+爬取第6个url
+url = https://www.airbnb.cn/rooms/14904087?s=lL8DwLxp&guests=1&adults=1
+
+爬取第7个url
+url = https://www.airbnb.cn/rooms/15153279?s=lL8DwLxp&guests=1&adults=1
+
+爬取第8个url
+url = https://www.airbnb.cn/rooms/15209414?s=lL8DwLxp&guests=1&adults=1
+
+爬取第9个url
+url = https://www.airbnb.cn/rooms/15347992?s=lL8DwLxp&guests=1&adults=1
+
+爬取第10个url
+url = https://www.airbnb.cn/rooms/15410135?s=lL8DwLxp&guests=1&adults=1
+
+爬取第11个url
+url = https://www.airbnb.cn/rooms/15473363?s=lL8DwLxp&guests=1&adults=1
+
+爬取第12个url
+url = https://www.airbnb.cn/rooms/15891423?s=lL8DwLxp&guests=1&adults=1
+
+爬取第13个url
+url = https://www.airbnb.cn/rooms/16153670?s=lL8DwLxp&guests=1&adults=1
+
+爬取第14个url
+url = https://www.airbnb.cn/rooms/16638103?s=lL8DwLxp&guests=1&adults=1
+
+爬取第15个url
+url = https://www.airbnb.cn/rooms/16658073?s=lL8DwLxp&guests=1&adults=1
+
+爬取第16个url
+url = https://www.airbnb.cn/rooms/17442601?s=lL8DwLxp&guests=1&adults=1
+
+爬取第17个url
+url = https://www.airbnb.cn/rooms/17443143?s=lL8DwLxp&guests=1&adults=1
+
+爬取第18个url
+url = https://www.airbnb.cn/rooms/17443345?s=lL8DwLxp&guests=1&adults=1
+
+爬取第19个url
+url = https://www.airbnb.cn/rooms/17449742?s=lL8DwLxp&guests=1&adults=1
+
+爬取第20个url
+url = https://www.airbnb.cn/rooms/18201544?s=lL8DwLxp&guests=1&adults=1
+
+爬取第21个url
+url = https://www.airbnb.cn/rooms/18320573?s=lL8DwLxp&guests=1&adults=1
+
+爬取第22个url
+url = https://www.airbnb.cn/rooms/18321846?s=lL8DwLxp&guests=1&adults=1
+
+爬取第23个url
+url = https://www.airbnb.cn/rooms/18629106?s=lL8DwLxp&guests=1&adults=1
+
+爬取第24个url
+url = https://www.airbnb.cn/rooms/18756449?s=lL8DwLxp&guests=1&adults=1
+
+爬取第25个url
+url = https://www.airbnb.cn/rooms/19791590?s=lL8DwLxp&guests=1&adults=1
+
+爬取第26个url
+url = https://www.airbnb.cn/rooms/19796435?s=lL8DwLxp&guests=1&adults=1
+
+爬取第27个url
+url = https://www.airbnb.cn/rooms/19823818?s=lL8DwLxp&guests=1&adults=1
+
+爬取第28个url
+url = https://www.airbnb.cn/rooms/20156442?s=lL8DwLxp&guests=1&adults=1
+
+爬取第29个url
+url = https://www.airbnb.cn/rooms/20676346?s=lL8DwLxp&guests=1&adults=1
+
+爬取第30个url
+url = https://www.airbnb.cn/rooms/20678673?s=lL8DwLxp&guests=1&adults=1
+
+爬取第31个url
+url = https://www.airbnb.cn/rooms/20962894?s=lL8DwLxp&guests=1&adults=1
+
+爬取第32个url
+url = https://www.airbnb.cn/rooms/21112760?s=lL8DwLxp&guests=1&adults=1
+
+爬取第33个url
+url = https://www.airbnb.cn/rooms/21170155?s=lL8DwLxp&guests=1&adults=1
+
+爬取第34个url
+url = https://www.airbnb.cn/rooms/21190831?s=lL8DwLxp&guests=1&adults=1
+
+爬取第35个url
+url = https://www.airbnb.cn/rooms/21191056?s=lL8DwLxp&guests=1&adults=1
+
+爬取第36个url
+url = https://www.airbnb.cn/rooms/21191317?s=lL8DwLxp&guests=1&adults=1
+
+爬取第37个url
+url = https://www.airbnb.cn/rooms/21304770?s=lL8DwLxp&guests=1&adults=1
+
+爬取第38个url
+url = https://www.airbnb.cn/rooms/21472995?s=lL8DwLxp&guests=1&adults=1
+
+爬取第39个url
+url = https://www.airbnb.cn/rooms/21740363?s=lL8DwLxp&guests=1&adults=1
+
+爬取第40个url
+url = https://www.airbnb.cn/rooms/22040077?s=lL8DwLxp&guests=1&adults=1
+
+爬取第41个url
+url = https://www.airbnb.cn/rooms/22631577?s=lL8DwLxp&guests=1&adults=1
+
+爬取第42个url
+url = https://www.airbnb.cn/rooms/22712392?s=lL8DwLxp&guests=1&adults=1
+
+爬取第43个url
+url = https://www.airbnb.cn/rooms/22868709?s=lL8DwLxp&guests=1&adults=1
+
+爬取第44个url
+url = https://www.airbnb.cn/rooms/23064443?s=lL8DwLxp&guests=1&adults=1
+
+爬取第45个url
+url = https://www.airbnb.cn/rooms/23064717?s=lL8DwLxp&guests=1&adults=1
+
+爬取第46个url
+url = https://www.airbnb.cn/rooms/23065695?s=lL8DwLxp&guests=1&adults=1
+
+爬取第47个url
+url = https://www.airbnb.cn/rooms/23066124?s=lL8DwLxp&guests=1&adults=1
+
+爬取第48个url
+url = https://www.airbnb.cn/rooms/23066407?s=lL8DwLxp&guests=1&adults=1
+
+爬取第49个url
+url = https://www.airbnb.cn/rooms/23067183?s=lL8DwLxp&guests=1&adults=1
+
+爬取第50个url
+url = https://www.airbnb.cn/rooms/23096066?s=lL8DwLxp&guests=1&adults=1
+
+爬取第51个url
+url = https://www.airbnb.cn/rooms/23137025?s=lL8DwLxp&guests=1&adults=1
+
+爬取第52个url
+url = https://www.airbnb.cn/rooms/23138193?s=lL8DwLxp&guests=1&adults=1
+
+爬取第53个url
+url = https://www.airbnb.cn/rooms/23152836?s=lL8DwLxp&guests=1&adults=1
+
+爬取第54个url
+url = https://www.airbnb.cn/rooms/23248092?s=lL8DwLxp&guests=1&adults=1
+
+爬取第55个url
+url = https://www.airbnb.cn/rooms/23265798?s=lL8DwLxp&guests=1&adults=1
+
+爬取第56个url
+url = https://www.airbnb.cn/rooms/23284860?s=lL8DwLxp&guests=1&adults=1
+
+爬取第57个url
+url = https://www.airbnb.cn/rooms/23286790?s=lL8DwLxp&guests=1&adults=1
+
+爬取第58个url
+url = https://www.airbnb.cn/rooms/23345713?s=lL8DwLxp&guests=1&adults=1
+
+爬取第59个url
+url = https://www.airbnb.cn/rooms/23381311?s=lL8DwLxp&guests=1&adults=1
+
+爬取第60个url
+url = https://www.airbnb.cn/rooms/23399304?s=lL8DwLxp&guests=1&adults=1
+
+爬取第61个url
+url = https://www.airbnb.cn/rooms/23423221?s=lL8DwLxp&guests=1&adults=1
+
+爬取第62个url
+url = https://www.airbnb.cn/rooms/23442047?s=lL8DwLxp&guests=1&adults=1
+
+爬取第63个url
+url = https://www.airbnb.cn/rooms/23461709?s=lL8DwLxp&guests=1&adults=1
+
+爬取第64个url
+url = https://www.airbnb.cn/rooms/23537470?s=lL8DwLxp&guests=1&adults=1
+
+爬取第65个url
+url = https://www.airbnb.cn/rooms/23552150?s=lL8DwLxp&guests=1&adults=1
+
+爬取第66个url
+url = https://www.airbnb.cn/rooms/23604073?s=lL8DwLxp&guests=1&adults=1
+
+爬取第67个url
+url = https://www.airbnb.cn/rooms/23619227?s=lL8DwLxp&guests=1&adults=1
+
+爬取第68个url
+url = https://www.airbnb.cn/rooms/23686876?s=lL8DwLxp&guests=1&adults=1
+
+爬取第69个url
+url = https://www.airbnb.cn/rooms/23731560?s=lL8DwLxp&guests=1&adults=1
+
+爬取第70个url
+url = https://www.airbnb.cn/rooms/23847160?s=lL8DwLxp&guests=1&adults=1
+
+爬取第71个url
+url = https://www.airbnb.cn/rooms/23884896?s=lL8DwLxp&guests=1&adults=1
+
+爬取第72个url
+url = https://www.airbnb.cn/rooms/23885459?s=lL8DwLxp&guests=1&adults=1
+
+爬取第73个url
+url = https://www.airbnb.cn/rooms/24037165?s=lL8DwLxp&guests=1&adults=1
+
+爬取第74个url
+url = https://www.airbnb.cn/rooms/24047020?s=lL8DwLxp&guests=1&adults=1
+
+爬取第75个url
+url = https://www.airbnb.cn/rooms/24047363?s=lL8DwLxp&guests=1&adults=1
+
+爬取第76个url
+url = https://www.airbnb.cn/rooms/24047487?s=lL8DwLxp&guests=1&adults=1
+
+爬取第77个url
+url = https://www.airbnb.cn/rooms/24047603?s=lL8DwLxp&guests=1&adults=1
+
+爬取第78个url
+url = https://www.airbnb.cn/rooms/24051385?s=lL8DwLxp&guests=1&adults=1
+
+爬取第79个url
+url = https://www.airbnb.cn/rooms/24057919?s=lL8DwLxp&guests=1&adults=1
+
+爬取第80个url
+url = https://www.airbnb.cn/rooms/24067722?s=lL8DwLxp&guests=1&adults=1
+
+爬取第81个url
+url = https://www.airbnb.cn/rooms/24067963?s=lL8DwLxp&guests=1&adults=1
+
+爬取第82个url
+url = https://www.airbnb.cn/rooms/24116160?s=lL8DwLxp&guests=1&adults=1
+
+爬取第83个url
+url = https://www.airbnb.cn/rooms/24124355?s=lL8DwLxp&guests=1&adults=1
+
+爬取第84个url
+url = https://www.airbnb.cn/rooms/24131653?s=lL8DwLxp&guests=1&adults=1
+
+爬取第85个url
+url = https://www.airbnb.cn/rooms/24146810?s=lL8DwLxp&guests=1&adults=1
+
+爬取第86个url
+url = https://www.airbnb.cn/rooms/24162435?s=lL8DwLxp&guests=1&adults=1
+
+爬取第87个url
+url = https://www.airbnb.cn/rooms/24259890?s=lL8DwLxp&guests=1&adults=1
+
+爬取第88个url
+url = https://www.airbnb.cn/rooms/24434813?s=lL8DwLxp&guests=1&adults=1
+
+爬取第89个url
+url = https://www.airbnb.cn/rooms/24458042?s=lL8DwLxp&guests=1&adults=1
+
+爬取第90个url
+url = https://www.airbnb.cn/rooms/24478661?s=lL8DwLxp&guests=1&adults=1
+
+爬取第91个url
+url = https://www.airbnb.cn/rooms/24480467?s=lL8DwLxp&guests=1&adults=1
+
+爬取第92个url
+url = https://www.airbnb.cn/rooms/24530565?s=lL8DwLxp&guests=1&adults=1
+
+爬取第93个url
+url = https://www.airbnb.cn/rooms/24634749?s=lL8DwLxp&guests=1&adults=1
+
+爬取第94个url
+url = https://www.airbnb.cn/rooms/24644231?s=lL8DwLxp&guests=1&adults=1
+
+爬取第95个url
+url = https://www.airbnb.cn/rooms/24665955?s=lL8DwLxp&guests=1&adults=1
+
+爬取第96个url
+url = https://www.airbnb.cn/rooms/24681212?s=lL8DwLxp&guests=1&adults=1
+
+爬取第97个url
+url = https://www.airbnb.cn/rooms/24726591?s=lL8DwLxp&guests=1&adults=1
+
+爬取第98个url
+url = https://www.airbnb.cn/rooms/24749532?s=lL8DwLxp&guests=1&adults=1
+
+爬取第99个url
+url = https://www.airbnb.cn/rooms/24835888?s=lL8DwLxp&guests=1&adults=1
+
+爬取第100个url
+url = https://www.airbnb.cn/rooms/24900841?s=lL8DwLxp&guests=1&adults=1
+
+爬取第101个url
+url = https://www.airbnb.cn/rooms/25035500?s=lL8DwLxp&guests=1&adults=1
+
+爬取第102个url
+url = https://www.airbnb.cn/rooms/25085527?s=lL8DwLxp&guests=1&adults=1
+
+爬取第103个url
+url = https://www.airbnb.cn/rooms/25145567?s=lL8DwLxp&guests=1&adults=1
+
+爬取第104个url
+url = https://www.airbnb.cn/rooms/25174031?s=lL8DwLxp&guests=1&adults=1
+
+爬取第105个url
+url = https://www.airbnb.cn/rooms/25175757?s=lL8DwLxp&guests=1&adults=1
+
+爬取第106个url
+url = https://www.airbnb.cn/rooms/25178375?s=lL8DwLxp&guests=1&adults=1
+
+爬取第107个url
+url = https://www.airbnb.cn/rooms/25179020?s=lL8DwLxp&guests=1&adults=1
+
+爬取第108个url
+url = https://www.airbnb.cn/rooms/25182040?s=lL8DwLxp&guests=1&adults=1
+
+爬取第109个url
+url = https://www.airbnb.cn/rooms/25182398?s=lL8DwLxp&guests=1&adults=1
+
+爬取第110个url
+url = https://www.airbnb.cn/rooms/25186304?s=lL8DwLxp&guests=1&adults=1
+
+爬取第111个url
+url = https://www.airbnb.cn/rooms/25186638?s=lL8DwLxp&guests=1&adults=1
+
+爬取第112个url
+url = https://www.airbnb.cn/rooms/25303298?s=lL8DwLxp&guests=1&adults=1
+
+爬取第113个url
+url = https://www.airbnb.cn/rooms/25385415?s=lL8DwLxp&guests=1&adults=1
+
+爬取第114个url
+url = https://www.airbnb.cn/rooms/25460723?s=lL8DwLxp&guests=1&adults=1
+
+爬取第115个url
+url = https://www.airbnb.cn/rooms/25566080?s=lL8DwLxp&guests=1&adults=1
+
+爬取第116个url
+url = https://www.airbnb.cn/rooms/25760168?s=lL8DwLxp&guests=1&adults=1
+
+爬取第117个url
+url = https://www.airbnb.cn/rooms/25800702?s=lL8DwLxp&guests=1&adults=1
+
+爬取第118个url
+url = https://www.airbnb.cn/rooms/25813415?s=lL8DwLxp&guests=1&adults=1
+
+爬取第119个url
+url = https://www.airbnb.cn/rooms/25817652?s=lL8DwLxp&guests=1&adults=1
+
+爬取第120个url
+url = https://www.airbnb.cn/rooms/25966570?s=lL8DwLxp&guests=1&adults=1
+
+爬取第121个url
+url = https://www.airbnb.cn/rooms/25991767?s=lL8DwLxp&guests=1&adults=1
+
+爬取第122个url
+url = https://www.airbnb.cn/rooms/25992835?s=lL8DwLxp&guests=1&adults=1
+
+爬取第123个url
+url = https://www.airbnb.cn/rooms/26015976?s=lL8DwLxp&guests=1&adults=1
+
+爬取第124个url
+url = https://www.airbnb.cn/rooms/26218517?s=lL8DwLxp&guests=1&adults=1
+
+爬取第125个url
+url = https://www.airbnb.cn/rooms/26264069?s=lL8DwLxp&guests=1&adults=1
+
+爬取第126个url
+url = https://www.airbnb.cn/rooms/26281164?s=lL8DwLxp&guests=1&adults=1
+
+爬取第127个url
+url = https://www.airbnb.cn/rooms/26342420?s=lL8DwLxp&guests=1&adults=1
+
+爬取第128个url
+url = https://www.airbnb.cn/rooms/26608692?s=lL8DwLxp&guests=1&adults=1
+
+爬取第129个url
+url = https://www.airbnb.cn/rooms/26657498?s=lL8DwLxp&guests=1&adults=1
+
+爬取第130个url
+url = https://www.airbnb.cn/rooms/26791296?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/26791296?s=lL8DwLxp&guests=1&adults=1
+
+爬取第131个url
+url = https://www.airbnb.cn/rooms/26829313?s=lL8DwLxp&guests=1&adults=1
+
+爬取第132个url
+url = https://www.airbnb.cn/rooms/26889719?s=lL8DwLxp&guests=1&adults=1
+
+爬取第133个url
+url = https://www.airbnb.cn/rooms/26902974?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/26902974?s=lL8DwLxp&guests=1&adults=1
+
+爬取第134个url
+url = https://www.airbnb.cn/rooms/26912687?s=lL8DwLxp&guests=1&adults=1
+
+爬取第135个url
+url = https://www.airbnb.cn/rooms/27070787?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/27070787?s=lL8DwLxp&guests=1&adults=1
+
+爬取第136个url
+url = https://www.airbnb.cn/rooms/27105002?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/27105002?s=lL8DwLxp&guests=1&adults=1
+
+爬取第137个url
+url = https://www.airbnb.cn/rooms/27105329?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/27105329?s=lL8DwLxp&guests=1&adults=1
+
+爬取第138个url
+url = https://www.airbnb.cn/rooms/27185169?s=lL8DwLxp&guests=1&adults=1
+
+爬取第139个url
+url = https://www.airbnb.cn/rooms/27220487?s=lL8DwLxp&guests=1&adults=1
+
+爬取第140个url
+url = https://www.airbnb.cn/rooms/27238494?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/27238494?s=lL8DwLxp&guests=1&adults=1
+
+爬取第141个url
+url = https://www.airbnb.cn/rooms/27239861?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/27239861?s=lL8DwLxp&guests=1&adults=1
+
+爬取第142个url
+url = https://www.airbnb.cn/rooms/27241366?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/27241366?s=lL8DwLxp&guests=1&adults=1
+
+爬取第143个url
+url = https://www.airbnb.cn/rooms/27247992?s=lL8DwLxp&guests=1&adults=1
+
+爬取第144个url
+url = https://www.airbnb.cn/rooms/27408697?s=lL8DwLxp&guests=1&adults=1
+
+爬取第145个url
+url = https://www.airbnb.cn/rooms/27447996?s=lL8DwLxp&guests=1&adults=1
+
+爬取第146个url
+url = https://www.airbnb.cn/rooms/27470284?s=lL8DwLxp&guests=1&adults=1
+
+爬取第147个url
+url = https://www.airbnb.cn/rooms/27470503?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/27470503?s=lL8DwLxp&guests=1&adults=1
+
+爬取第148个url
+url = https://www.airbnb.cn/rooms/27617469?s=lL8DwLxp&guests=1&adults=1
+
+爬取第149个url
+url = https://www.airbnb.cn/rooms/27672992?s=lL8DwLxp&guests=1&adults=1
+
+爬取第150个url
+url = https://www.airbnb.cn/rooms/27686816?s=lL8DwLxp&guests=1&adults=1
+
+爬取第151个url
+url = https://www.airbnb.cn/rooms/27788800?s=lL8DwLxp&guests=1&adults=1
+
+爬取第152个url
+url = https://www.airbnb.cn/rooms/27801336?s=lL8DwLxp&guests=1&adults=1
+
+爬取第153个url
+url = https://www.airbnb.cn/rooms/27801864?s=lL8DwLxp&guests=1&adults=1
+
+爬取第154个url
+url = https://www.airbnb.cn/rooms/27802638?s=lL8DwLxp&guests=1&adults=1
+
+爬取第155个url
+url = https://www.airbnb.cn/rooms/27879562?s=lL8DwLxp&guests=1&adults=1
+
+爬取第156个url
+url = https://www.airbnb.cn/rooms/27938376?s=lL8DwLxp&guests=1&adults=1
+
+爬取第157个url
+url = https://www.airbnb.cn/rooms/27940232?s=lL8DwLxp&guests=1&adults=1
+
+爬取第158个url
+url = https://www.airbnb.cn/rooms/27940803?s=lL8DwLxp&guests=1&adults=1
+
+爬取第159个url
+url = https://www.airbnb.cn/rooms/27946965?s=lL8DwLxp&guests=1&adults=1
+
+爬取第160个url
+url = https://www.airbnb.cn/rooms/27966896?s=lL8DwLxp&guests=1&adults=1
+
+爬取第161个url
+url = https://www.airbnb.cn/rooms/28053092?s=lL8DwLxp&guests=1&adults=1
+
+爬取第162个url
+url = https://www.airbnb.cn/rooms/28062679?s=lL8DwLxp&guests=1&adults=1
+
+爬取第163个url
+url = https://www.airbnb.cn/rooms/28112414?s=lL8DwLxp&guests=1&adults=1
+
+爬取第164个url
+url = https://www.airbnb.cn/rooms/28141781?s=lL8DwLxp&guests=1&adults=1
+
+爬取第165个url
+url = https://www.airbnb.cn/rooms/28207108?s=lL8DwLxp&guests=1&adults=1
+
+爬取第166个url
+url = https://www.airbnb.cn/rooms/28207918?s=lL8DwLxp&guests=1&adults=1
+
+爬取第167个url
+url = https://www.airbnb.cn/rooms/28274137?s=lL8DwLxp&guests=1&adults=1
+
+爬取第168个url
+url = https://www.airbnb.cn/rooms/28376014?s=lL8DwLxp&guests=1&adults=1
+
+爬取第169个url
+url = https://www.airbnb.cn/rooms/28445277?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/28445277?s=lL8DwLxp&guests=1&adults=1
+
+爬取第170个url
+url = https://www.airbnb.cn/rooms/28508951?s=lL8DwLxp&guests=1&adults=1
+
+爬取第171个url
+url = https://www.airbnb.cn/rooms/28511850?s=lL8DwLxp&guests=1&adults=1
+
+爬取第172个url
+url = https://www.airbnb.cn/rooms/28593698?s=lL8DwLxp&guests=1&adults=1
+
+爬取第173个url
+url = https://www.airbnb.cn/rooms/28595559?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/28595559?s=lL8DwLxp&guests=1&adults=1
+
+爬取第174个url
+url = https://www.airbnb.cn/rooms/28714854?s=lL8DwLxp&guests=1&adults=1
+
+爬取第175个url
+url = https://www.airbnb.cn/rooms/28853868?s=lL8DwLxp&guests=1&adults=1
+
+爬取第176个url
+url = https://www.airbnb.cn/rooms/28882610?s=lL8DwLxp&guests=1&adults=1
+
+爬取第177个url
+url = https://www.airbnb.cn/rooms/28884494?s=lL8DwLxp&guests=1&adults=1
+
+爬取第178个url
+url = https://www.airbnb.cn/rooms/28924278?s=lL8DwLxp&guests=1&adults=1
+
+爬取第179个url
+url = https://www.airbnb.cn/rooms/28976461?s=lL8DwLxp&guests=1&adults=1
+
+爬取第180个url
+url = https://www.airbnb.cn/rooms/29005454?s=lL8DwLxp&guests=1&adults=1
+
+爬取第181个url
+url = https://www.airbnb.cn/rooms/29005460?s=lL8DwLxp&guests=1&adults=1
+
+爬取第182个url
+url = https://www.airbnb.cn/rooms/29039407?s=lL8DwLxp&guests=1&adults=1
+
+爬取第183个url
+url = https://www.airbnb.cn/rooms/29068945?s=lL8DwLxp&guests=1&adults=1
+
+爬取第184个url
+url = https://www.airbnb.cn/rooms/29083739?s=lL8DwLxp&guests=1&adults=1
+
+爬取第185个url
+url = https://www.airbnb.cn/rooms/29117803?s=lL8DwLxp&guests=1&adults=1
+
+爬取第186个url
+url = https://www.airbnb.cn/rooms/29135276?s=lL8DwLxp&guests=1&adults=1
+
+爬取第187个url
+url = https://www.airbnb.cn/rooms/29136395?s=lL8DwLxp&guests=1&adults=1
+
+爬取第188个url
+url = https://www.airbnb.cn/rooms/29136508?s=lL8DwLxp&guests=1&adults=1
+
+爬取第189个url
+url = https://www.airbnb.cn/rooms/29137626?s=lL8DwLxp&guests=1&adults=1
+
+爬取第190个url
+url = https://www.airbnb.cn/rooms/29143351?s=lL8DwLxp&guests=1&adults=1
+
+爬取第191个url
+url = https://www.airbnb.cn/rooms/29144181?s=lL8DwLxp&guests=1&adults=1
+
+爬取第192个url
+url = https://www.airbnb.cn/rooms/29287311?s=lL8DwLxp&guests=1&adults=1
+
+爬取第193个url
+url = https://www.airbnb.cn/rooms/29289941?s=lL8DwLxp&guests=1&adults=1
+
+爬取第194个url
+url = https://www.airbnb.cn/rooms/29374745?s=lL8DwLxp&guests=1&adults=1
+
+爬取第195个url
+url = https://www.airbnb.cn/rooms/29502755?s=lL8DwLxp&guests=1&adults=1
+
+爬取第196个url
+url = https://www.airbnb.cn/rooms/29596011?s=lL8DwLxp&guests=1&adults=1
+
+爬取第197个url
+url = https://www.airbnb.cn/rooms/29616554?s=lL8DwLxp&guests=1&adults=1
+
+爬取第198个url
+url = https://www.airbnb.cn/rooms/29616722?s=lL8DwLxp&guests=1&adults=1
+
+爬取第199个url
+url = https://www.airbnb.cn/rooms/29616788?s=lL8DwLxp&guests=1&adults=1
+
+爬取第200个url
+url = https://www.airbnb.cn/rooms/29617110?s=lL8DwLxp&guests=1&adults=1
+
+爬取第201个url
+url = https://www.airbnb.cn/rooms/29617330?s=lL8DwLxp&guests=1&adults=1
+
+爬取第202个url
+url = https://www.airbnb.cn/rooms/29617709?s=lL8DwLxp&guests=1&adults=1
+
+爬取第203个url
+url = https://www.airbnb.cn/rooms/29617873?s=lL8DwLxp&guests=1&adults=1
+
+爬取第204个url
+url = https://www.airbnb.cn/rooms/29627293?s=lL8DwLxp&guests=1&adults=1
+
+爬取第205个url
+url = https://www.airbnb.cn/rooms/29725025?s=lL8DwLxp&guests=1&adults=1
+
+爬取第206个url
+url = https://www.airbnb.cn/rooms/29747365?s=lL8DwLxp&guests=1&adults=1
+
+爬取第207个url
+url = https://www.airbnb.cn/rooms/29765433?s=lL8DwLxp&guests=1&adults=1
+
+爬取第208个url
+url = https://www.airbnb.cn/rooms/29787002?s=lL8DwLxp&guests=1&adults=1
+
+爬取第209个url
+url = https://www.airbnb.cn/rooms/29787598?s=lL8DwLxp&guests=1&adults=1
+
+爬取第210个url
+url = https://www.airbnb.cn/rooms/29871348?s=lL8DwLxp&guests=1&adults=1
+
+爬取第211个url
+url = https://www.airbnb.cn/rooms/29995526?s=lL8DwLxp&guests=1&adults=1
+
+爬取第212个url
+url = https://www.airbnb.cn/rooms/30031851?s=lL8DwLxp&guests=1&adults=1
+
+爬取第213个url
+url = https://www.airbnb.cn/rooms/30096378?s=lL8DwLxp&guests=1&adults=1
+
+爬取第214个url
+url = https://www.airbnb.cn/rooms/30191911?s=lL8DwLxp&guests=1&adults=1
+
+爬取第215个url
+url = https://www.airbnb.cn/rooms/30211700?s=lL8DwLxp&guests=1&adults=1
+
+爬取第216个url
+url = https://www.airbnb.cn/rooms/30239077?s=lL8DwLxp&guests=1&adults=1
+
+爬取第217个url
+url = https://www.airbnb.cn/rooms/30259281?s=lL8DwLxp&guests=1&adults=1
+
+爬取第218个url
+url = https://www.airbnb.cn/rooms/30298139?s=lL8DwLxp&guests=1&adults=1
+
+爬取第219个url
+url = https://www.airbnb.cn/rooms/30369339?s=lL8DwLxp&guests=1&adults=1
+
+爬取第220个url
+url = https://www.airbnb.cn/rooms/30485924?s=lL8DwLxp&guests=1&adults=1
+
+爬取第221个url
+url = https://www.airbnb.cn/rooms/30569464?s=lL8DwLxp&guests=1&adults=1
+
+爬取第222个url
+url = https://www.airbnb.cn/rooms/30753797?s=lL8DwLxp&guests=1&adults=1
+
+爬取第223个url
+url = https://www.airbnb.cn/rooms/30761525?s=lL8DwLxp&guests=1&adults=1
+
+爬取第224个url
+url = https://www.airbnb.cn/rooms/30829879?s=lL8DwLxp&guests=1&adults=1
+
+爬取第225个url
+url = https://www.airbnb.cn/rooms/30928130?s=lL8DwLxp&guests=1&adults=1
+
+爬取第226个url
+url = https://www.airbnb.cn/rooms/30964203?s=lL8DwLxp&guests=1&adults=1
+
+爬取第227个url
+url = https://www.airbnb.cn/rooms/30974177?s=lL8DwLxp&guests=1&adults=1
+
+爬取第228个url
+url = https://www.airbnb.cn/rooms/31065312?s=lL8DwLxp&guests=1&adults=1
+
+爬取第229个url
+url = https://www.airbnb.cn/rooms/31068074?s=lL8DwLxp&guests=1&adults=1
+
+爬取第230个url
+url = https://www.airbnb.cn/rooms/31068338?s=lL8DwLxp&guests=1&adults=1
+
+爬取第231个url
+url = https://www.airbnb.cn/rooms/31242949?s=lL8DwLxp&guests=1&adults=1
+
+爬取第232个url
+url = https://www.airbnb.cn/rooms/31457262?s=lL8DwLxp&guests=1&adults=1
+
+爬取第233个url
+url = https://www.airbnb.cn/rooms/31477228?s=lL8DwLxp&guests=1&adults=1
+
+爬取第234个url
+url = https://www.airbnb.cn/rooms/31498477?s=lL8DwLxp&guests=1&adults=1
+
+爬取第235个url
+url = https://www.airbnb.cn/rooms/31554434?s=lL8DwLxp&guests=1&adults=1
+
+爬取第236个url
+url = https://www.airbnb.cn/rooms/31575242?s=lL8DwLxp&guests=1&adults=1
+
+爬取第237个url
+url = https://www.airbnb.cn/rooms/31576054?s=lL8DwLxp&guests=1&adults=1
+
+爬取第238个url
+url = https://www.airbnb.cn/rooms/31581861?s=lL8DwLxp&guests=1&adults=1
+
+爬取第239个url
+url = https://www.airbnb.cn/rooms/31654092?s=lL8DwLxp&guests=1&adults=1
+
+爬取第240个url
+url = https://www.airbnb.cn/rooms/31654512?s=lL8DwLxp&guests=1&adults=1
+
+爬取第241个url
+url = https://www.airbnb.cn/rooms/31662965?s=lL8DwLxp&guests=1&adults=1
+
+爬取第242个url
+url = https://www.airbnb.cn/rooms/31791617?s=lL8DwLxp&guests=1&adults=1
+
+爬取第243个url
+url = https://www.airbnb.cn/rooms/31821600?s=lL8DwLxp&guests=1&adults=1
+
+爬取第244个url
+url = https://www.airbnb.cn/rooms/31821614?s=lL8DwLxp&guests=1&adults=1
+
+爬取第245个url
+url = https://www.airbnb.cn/rooms/31874126?s=lL8DwLxp&guests=1&adults=1
+
+爬取第246个url
+url = https://www.airbnb.cn/rooms/31918720?s=lL8DwLxp&guests=1&adults=1
+
+爬取第247个url
+url = https://www.airbnb.cn/rooms/32027119?s=lL8DwLxp&guests=1&adults=1
+
+爬取第248个url
+url = https://www.airbnb.cn/rooms/32027771?s=lL8DwLxp&guests=1&adults=1
+
+爬取第249个url
+url = https://www.airbnb.cn/rooms/32033335?s=lL8DwLxp&guests=1&adults=1
+
+爬取第250个url
+url = https://www.airbnb.cn/rooms/32070569?s=lL8DwLxp&guests=1&adults=1
+
+爬取第251个url
+url = https://www.airbnb.cn/rooms/32079038?s=lL8DwLxp&guests=1&adults=1
+
+爬取第252个url
+url = https://www.airbnb.cn/rooms/32080516?s=lL8DwLxp&guests=1&adults=1
+
+爬取第253个url
+url = https://www.airbnb.cn/rooms/32168471?s=lL8DwLxp&guests=1&adults=1
+
+爬取第254个url
+url = https://www.airbnb.cn/rooms/32179114?s=lL8DwLxp&guests=1&adults=1
+
+爬取第255个url
+url = https://www.airbnb.cn/rooms/32296869?s=lL8DwLxp&guests=1&adults=1
+
+爬取第256个url
+url = https://www.airbnb.cn/rooms/32365156?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32365156?s=lL8DwLxp&guests=1&adults=1
+
+爬取第257个url
+url = https://www.airbnb.cn/rooms/32365454?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32365454?s=lL8DwLxp&guests=1&adults=1
+
+爬取第258个url
+url = https://www.airbnb.cn/rooms/32366092?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32366092?s=lL8DwLxp&guests=1&adults=1
+
+爬取第259个url
+url = https://www.airbnb.cn/rooms/32390032?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32390032?s=lL8DwLxp&guests=1&adults=1
+
+爬取第260个url
+url = https://www.airbnb.cn/rooms/32390088?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32390088?s=lL8DwLxp&guests=1&adults=1
+
+爬取第261个url
+url = https://www.airbnb.cn/rooms/32390505?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32390505?s=lL8DwLxp&guests=1&adults=1
+
+爬取第262个url
+url = https://www.airbnb.cn/rooms/32390553?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32390553?s=lL8DwLxp&guests=1&adults=1
+
+爬取第263个url
+url = https://www.airbnb.cn/rooms/32390698?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32390698?s=lL8DwLxp&guests=1&adults=1
+
+爬取第264个url
+url = https://www.airbnb.cn/rooms/32390785?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32390785?s=lL8DwLxp&guests=1&adults=1
+
+爬取第265个url
+url = https://www.airbnb.cn/rooms/32414785?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32414785?s=lL8DwLxp&guests=1&adults=1
+
+爬取第266个url
+url = https://www.airbnb.cn/rooms/32414876?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32414876?s=lL8DwLxp&guests=1&adults=1
+
+爬取第267个url
+url = https://www.airbnb.cn/rooms/32430350?s=lL8DwLxp&guests=1&adults=1
+
+爬取第268个url
+url = https://www.airbnb.cn/rooms/32430377?s=lL8DwLxp&guests=1&adults=1
+
+爬取第269个url
+url = https://www.airbnb.cn/rooms/32477726?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32477726?s=lL8DwLxp&guests=1&adults=1
+
+爬取第270个url
+url = https://www.airbnb.cn/rooms/32477762?s=lL8DwLxp&guests=1&adults=1
+
+bug url = https://www.airbnb.cn/rooms/32477762?s=lL8DwLxp&guests=1&adults=1
+
+爬取第271个url
+url = https://www.airbnb.cn/rooms/32685640?s=lL8DwLxp&guests=1&adults=1
+
+爬取第272个url
+url = https://www.airbnb.cn/rooms/32710529?s=lL8DwLxp&guests=1&adults=1
+
+爬取第273个url
+url = https://www.airbnb.cn/rooms/32733740?s=lL8DwLxp&guests=1&adults=1
+
+爬取第274个url
+url = https://www.airbnb.cn/rooms/32747721?s=lL8DwLxp&guests=1&adults=1
+
+爬取第275个url
+url = https://www.airbnb.cn/rooms/32792331?s=lL8DwLxp&guests=1&adults=1
+
+爬取第276个url
+url = https://www.airbnb.cn/rooms/32825224?s=lL8DwLxp&guests=1&adults=1
+
+爬取第277个url
+url = https://www.airbnb.cn/rooms/32825865?s=lL8DwLxp&guests=1&adults=1
+
+爬取第278个url
+url = https://www.airbnb.cn/rooms/32852577?s=lL8DwLxp&guests=1&adults=1
+
+爬取第279个url
+url = https://www.airbnb.cn/rooms/32965273?s=lL8DwLxp&guests=1&adults=1
+
+爬取第280个url
+url = https://www.airbnb.cn/rooms/33050272?s=lL8DwLxp&guests=1&adults=1
+
+爬取第281个url
+url = https://www.airbnb.cn/rooms/8558497?s=lL8DwLxp&guests=1&adults=1
+
+爬取第282个url
+url = https://www.airbnb.cn/rooms/8993674?s=lL8DwLxp&guests=1&adults=1

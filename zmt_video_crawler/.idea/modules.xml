@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../python_project_2/testpro/.idea/testpro.iml" filepath="$PROJECT_DIR$/../../../python_project_2/testpro/.idea/testpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../python_zenjoy/MXYoutubeDownload/youdownloader/.idea/youdownloader.iml" filepath="$PROJECT_DIR$/../../../python_zenjoy/MXYoutubeDownload/youdownloader/.idea/youdownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zmt_video_crawler.iml" filepath="$PROJECT_DIR$/.idea/zmt_video_crawler.iml" />
+    </modules>
+  </component>
+</project>
