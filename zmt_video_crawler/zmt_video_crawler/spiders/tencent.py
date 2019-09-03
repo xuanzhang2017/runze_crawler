@@ -74,11 +74,11 @@ class TencentSpider(scrapy.Spider):
         'https://v.qq.com/vplus/a74b9725b739299fd6e00555d6a4fbaa#uin=a74b9725b739299fd6e00555d6a4fbaa?page=video',
     ]
 
-    # def start_requests(self):
-    #     with open('./video_src_list/game.csv', 'r') as f:
-    #         lines = f.readlines()
-    #         for link in lines:
-    #             yield scrapy.Request(link, callback=self.parse)
+    def start_requests(self):
+        with open('./video_src_list/sports.csv', 'r') as f:
+            lines = f.readlines()
+            for link in lines:
+                yield scrapy.Request(link, callback=self.parse)
 
     def parse(self, response):
         detail_urls = [response.urljoin(url) for url in response.xpath(
@@ -89,7 +89,8 @@ class TencentSpider(scrapy.Spider):
             detail_url = mbf.process_item(detail_url)
             print('detail_url = %s' % detail_url)
             if detail_url:
-                you_get_cmd = 'you-get %s -o /Users/xuanzhang/wengao/videos/tencent/01' % detail_url
+                # you_get_cmd = 'you-get %s -o /Users/xuanzhang/wengao/videos/tencent/01' % detail_url
+                you_get_cmd = 'you-get %s -o ./videos/tencent' % detail_url
                 print(you_get_cmd)
                 os.system(you_get_cmd)
 
