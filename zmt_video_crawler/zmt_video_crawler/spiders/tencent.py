@@ -6,7 +6,7 @@ from utils.bloom_util import MyBloomUtil
 
 
 class TencentSpider(scrapy.Spider):
-    name = 'tecent'
+    name = 'tencent'
     allowed_domains = ['qq.com']
     start_urls = [
         ######## 国际新闻
@@ -86,7 +86,7 @@ class TencentSpider(scrapy.Spider):
         mbf = MyBloomUtil(self.name)
 
         for detail_url in detail_urls:
-            detail_url = mbf.process_item(detail_url)
+            # detail_url = mbf.process_item(detail_url)
             print('detail_url = %s' % detail_url)
             if detail_url:
                 # you_get_cmd = 'you-get %s -o /Users/xuanzhang/wengao/videos/tencent/01' % detail_url
