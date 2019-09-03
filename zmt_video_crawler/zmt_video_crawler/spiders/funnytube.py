@@ -3,7 +3,6 @@ import scrapy
 from zmt_video_crawler.items import ZmtVideoCrawlerItem
 from utils.bloom_util import MyBloomUtil
 
-
 class MirchistatusSpider(scrapy.Spider):
     name = 'funnytube'
     allowed_domains = ['funnytube.in']
