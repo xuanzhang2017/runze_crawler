@@ -86,14 +86,14 @@ class TencentSpider(scrapy.Spider):
         mbf = MyBloomUtil(self.name)
 
         for detail_url in detail_urls:
-            # detail_url = mbf.process_item(detail_url)
             print('detail_url = %s' % detail_url)
-            if detail_url:
+            is_exist = mbf.is_exists(detail_url)
+            if not is_exist:
                 # you_get_cmd = 'you-get %s -o /Users/xuanzhang/wengao/videos/tencent/01' % detail_url
                 you_get_cmd = 'you-get %s -o ./videos/tencent' % detail_url
                 print(you_get_cmd)
                 os.system(you_get_cmd)
-
+                mbf.add_in_bf(detail_url)
             # item = ZmtVideoCrawlerItem()
             # item['detail_url'] = detail_url
             # yield item
