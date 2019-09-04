@@ -75,7 +75,7 @@ class TencentSpider(scrapy.Spider):
     ]
 
     def start_requests(self):
-        with open('./video_src_list/sports.csv', 'r') as f:
+        with open('./video_src_list/xianfeng_shortvideos.csv', 'r') as f:
             lines = f.readlines()
             for link in lines:
                 yield scrapy.Request(link, callback=self.parse)
