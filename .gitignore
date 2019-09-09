@@ -3,3 +3,4 @@
 /.idea
 zmt_video_crawler/videos/
 *.DS_Store
+*.xml

@@ -69,16 +69,17 @@ class TencentSpider(scrapy.Spider):
         'https://v.qq.com/vplus/97e5558e80a0d58bdef1e7c7ee68744c#uin=97e5558e80a0d58bdef1e7c7ee68744c?page=video',
         'https://v.qq.com/vplus/ee8581446297af1d85fc9e995a19b595#uin=ee8581446297af1d85fc9e995a19b595?page=video',
         'https://v.qq.com/vplus/d5122d5360271d7373641ebb97994585#uin=d5122d5360271d7373641ebb97994585?page=video',
-
-        # 其他
+        'https://v.qq.com/vplus/5f95541fe2a18b60374b388a03b2358f#uin=5f95541fe2a18b60374b388a03b2358f?page=video',
+         # 其他
         'https://v.qq.com/vplus/a74b9725b739299fd6e00555d6a4fbaa#uin=a74b9725b739299fd6e00555d6a4fbaa?page=video',
     ]
 
-    def start_requests(self):
-        with open('./video_src_list/xianfeng_shortvideos.csv', 'r') as f:
-            lines = f.readlines()
-            for link in lines:
-                yield scrapy.Request(link, callback=self.parse)
+    # def start_requests(self):
+    #     # with open('./video_src_list/xianfeng_shortvideos.csv', 'r') as f:
+    #     with open('./video_src_list/game.csv', 'r') as f:
+    #         lines = f.readlines()
+    #         for link in lines:
+    #             yield scrapy.Request(link, callback=self.parse)
 
     def parse(self, response):
         detail_urls = [response.urljoin(url) for url in response.xpath(

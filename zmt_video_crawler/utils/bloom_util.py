@@ -22,7 +22,10 @@ class MyBloomUtil:
             self.bf = BloomFilter(20000, 0.001)
 
     def is_exists(self, item):
-        return item in self.bf
+        if item in self.bf:
+            print('%s is already in bloom_filter.' % item)
+            return True
+        return False
 
     def add_in_bf(self, item):
         print('add %s' % item)
